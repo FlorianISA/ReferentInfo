@@ -1,0 +1,8 @@
+site_name: Référent informatique
+nav:
+  - Mot de passe oublié: index.md
+markdown_extensions:
+  - toc:
+      title: Étapes
+theme:
+  name: material
